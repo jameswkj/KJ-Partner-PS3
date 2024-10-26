@@ -1,1 +1,18 @@
-ae0ba3a - jameswkj, 28 hours ago : Add files via upload
+
+Partner1: Kaijie Wu (jameswkj)
+Partner2: Attaullah Abbasi (attaullahabbasi12)
+
+Link to repository: https://github.com/jameswkj/KJ-Partner-PS3
+
+2028109 - attaullahabbasi12, 81 seconds ago : Update ps3_pair-1.qmd
+6831a54 - attaullahabbasi12, 8 minutes ago : Merge pull request #4 from jameswkj/histogram
+7c5376c - jameswkj, 2 hours ago : Merge pull request #3 from jameswkj/describe
+3c1b6e2 - jameswkj, 2 hours ago : Modified function to return head and histogram
+c4d071e - attaullahabbasi12, 3 hours ago : Create commit_history.txt
+25178f1 - jameswkj, 3 hours ago : Modified function to return head and describe
+1e7fb88 - attaullahabbasi12, 3 hours ago : Merge pull request #2 from jameswkj/merge_conflict_name_1
+ebee318 - attaullahabbasi12, 3 hours ago : Merge branch 'main' into merge_conflict_name_1
+b1d118d - jameswkj, 3 hours ago : Merge pull request #1 from jameswkj/merge_conflict_name_2
+fce3d32 - jameswkj, 3 hours ago : Kaijie Wu replaces name
+698dbb6 - attaullahabbasi12, 3 hours ago : Replace Dema Therese with Atta in ps3_pair-1.qmd
+ae0ba3a - jameswkj, 31 hours ago : Add files via upload
