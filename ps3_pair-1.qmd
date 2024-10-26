@@ -33,4 +33,14 @@ def preview_data(df):
     print(df.head())
 
 preview_data(data)
+
+import altair as alt
+
+def dataframe_histogram(df):
+    head = df.head()
+    histogram = alt.Chart(df).mark_bar().encode(
+        alt.X('values', bin=True),
+        y='count()'
+    ).properties(title="Histogram of Values")
+    return [head, histogram]
 ```
