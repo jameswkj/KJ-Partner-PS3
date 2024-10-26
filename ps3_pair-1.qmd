@@ -30,7 +30,13 @@ def preview_data(df):
 
 preview_data(data)
 
-def custom_function(df):
-    return [df.head(), df.describe()]
-    
+import altair as alt
+
+def dataframe_histogram(df):
+    head = df.head()
+    histogram = alt.Chart(df).mark_bar().encode(
+        alt.X('values', bin=True),
+        y='count()'
+    ).properties(title="Histogram of Values")
+    return [head, histogram]
 ```
